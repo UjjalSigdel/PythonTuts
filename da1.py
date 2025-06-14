@@ -1,0 +1,6 @@
+print("Mata kehi vandina")
+print(5+6)
+print(12*6)
+print(27/5)
+print(27//5)
+print(2**4)
